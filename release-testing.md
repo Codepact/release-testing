@@ -1,4 +1,4 @@
-# Example Agreement
+# Release Testing Agreement
 
 `Purpose` This agreement shows people how to get a document onto codepact.com (you give a short description of what the agreement does here).
 
