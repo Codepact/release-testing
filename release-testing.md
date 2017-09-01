@@ -6,6 +6,8 @@
 
 `Party 2 Name` Buyer
 
+`Jurisdiction` Australia
+
 ## The first heading (one option)
 
 This is the first clause in the agreement between the Buyer and the Seller.  Two things:
