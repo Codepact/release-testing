@@ -52,17 +52,3 @@ means whatever's relevant to the Agreement.
 
 ### Three Word Definition
 means you've maxed out the number of words in a defined term.
-
-## Variables
-
-#### text variable
-
-this is the default text for the text variable.
-
-`Guidance` This is the optional guidance that you add to a variable to tell people how to fill it in.  Notice that you put a variable under the clause that it's used in.  You only need to put it a document once, even if you want to use it more than once.  Just use the curly brackets around the same variable name in another clause and it'll show up there too.
-
-You'll also notice that you can use normal markdown formatting (like the bullets above).
-
-#### variables
-
-default text
